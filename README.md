@@ -31,6 +31,8 @@
 
     Number of connected player in a Scoreboard.
 
+    The animation when an Operator join the world is different then just a player.
+
 
 
 
