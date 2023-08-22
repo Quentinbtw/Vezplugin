@@ -33,6 +33,9 @@
 
     The animation when an Operator join the world is different than just a player.
 
+    a compass with which you can open a new inventory with which you can click on a bed to activate the /spawn command or on a sword that will activate the /randomtp command
+    
+
 
 
 
