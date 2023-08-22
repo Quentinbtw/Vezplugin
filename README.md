@@ -1,4 +1,4 @@
-![Alt text](<banner.png>)
+![Alt text](<images/banner.png>)
 # Vezplugin
  A plugin created by VEZRRO
 
@@ -40,4 +40,4 @@
 
 
 
-![Alt text](image-1.png)
+![Alt text](images/image.png)
