@@ -5,7 +5,7 @@
 
  This plugin work with all features and versions of Minecraft Mojang.
 
- 
+ if you want to test on a server you can join 83.202.63.111 in 1.20.1 version.
  
  
  What is a Minecraft Plugin:
