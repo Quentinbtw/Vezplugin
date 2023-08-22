@@ -19,7 +19,7 @@
 
     /spawn: to go to the worldspawn;
 
-    /randomtp : the player teleported randomly,
+    /randomtp : the player is teleported randomly,
 
     /top: the player is teleported to the highest block relative to his position,
 
